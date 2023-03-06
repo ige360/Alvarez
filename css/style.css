@@ -1,0 +1,28 @@
+body {
+  background-color: #c9f4aa;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 10%;
+  border-color: grey;
+  width: 10%;
+}
+h2:hover{
+  color: gold;
+}
+h1 {
+  color: blue;
+  font-family: monospace;
+}
+.round {
+  border-radius: 50px;
+}
+.Club {
+  color: pink;
+}
+.Personal {
+  color: red;
+}
+.win {
+  color: white;
+}
